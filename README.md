@@ -14,4 +14,4 @@
 # 💻 Diferenciais em desenvolvimento...
 
 - [x] Construído com o Tailwindcss
-- [ ] Projeto Responsivo
+- [x] Projeto Responsivo
